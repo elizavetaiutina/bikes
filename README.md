@@ -1,5 +1,7 @@
 # Проект: Сompetition-bikes
 
+### Адаптивная вёрстка и работа с макетом
+
 ### GitHub Pages:
 [https://elizavetaiutina.github.io/bikes/]
 
