@@ -7,8 +7,6 @@
 
 ### https://elizavetaiutina.github.io/bikes/
 
----
-
 ## Описание проекта
 Адаптивный одностраничный сайт
 
