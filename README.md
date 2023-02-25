@@ -1,15 +1,16 @@
 # Проект: Сompetition-bikes
 
-### Адаптивная вёрстка и работа с макетом
+### Учебный- комадный проект на курсе Яндекс практикум
 
-### GitHub Pages:
-[https://elizavetaiutina.github.io/bikes/]
+---
+## GitHub Pages:
+
+### https://elizavetaiutina.github.io/bikes/
 
 ---
 
 ## Описание проекта
 Адаптивный одностраничный сайт
-
 
 ## Технологии
 ### HTML 5
